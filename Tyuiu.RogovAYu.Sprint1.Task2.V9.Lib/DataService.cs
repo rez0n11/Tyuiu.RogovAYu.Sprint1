@@ -5,7 +5,7 @@ namespace Tyuiu.RogovAYu.Sprint1.Task2.V9.Lib
     {
         public double CalculateVolumeCircle(int r)
         {
-            return Math.Round((4.0 / 3 * 3.14 * Math.Pow(r,3)),3);
+            return Math.Round((4.0 / 3 * Math.PI * Math.Pow(r,3)),3);
         }
     }
 }
