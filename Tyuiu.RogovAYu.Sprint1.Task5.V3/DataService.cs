@@ -6,7 +6,7 @@ namespace Tyuiu.RogovAYu.Sprint1.Task5.V3
     {
         public int Calculate(int k)
         {
-            return (k%1000)/100
+            return (k % 1000) / 100;
         }
     }
 }
