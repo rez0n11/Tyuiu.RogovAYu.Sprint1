@@ -29,7 +29,7 @@ namespace Tyuiu.RogovAYu.Sprint.Task.V
             }
             Console.WriteLine("* Результат:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine($"* Объем Сферы = {result}                                                   *");
+            Console.WriteLine($"* Объем Сферы = {result}                                                  *");
             Console.WriteLine("***************************************************************************");
 
 
